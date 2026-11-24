@@ -47,7 +47,6 @@ Esta mesma aplicação também foi desenvolvida em **Kotlin**: [AppEscolherTema2
 
 Outros repositórios de aula com o mesmo tema:
 
-- [AppEscolherTemaJava](https://github.com/fabcurvello/AppEscolherTemaJava)
 - [AppEscolherTemaKotlin](https://github.com/fabcurvello/AppEscolherTemaKotlin)
 - [AppEscolherTema2Kotlin](https://github.com/fabcurvello/AppEscolherTema2Kotlin)
 
